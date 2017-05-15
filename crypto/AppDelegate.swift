@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  crypto
-//
-//  Created by kristof verbeeck on 13/02/17.
-//  Copyright © 2017 aaaa. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
