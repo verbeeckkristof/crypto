@@ -5,7 +5,7 @@ Usage:
 
 Drag and drop KVCipher.swift into your Xcode Project (using Swift 3+)
 Create a variable to refference the file
-    let crypt = KVCipher()
+    <code>let crypt = KVCipher()</code>
 
 Now you can encrypt any string, Date, Float, Int... using the KVCipher algorithem
 use this code to see to see it in action
